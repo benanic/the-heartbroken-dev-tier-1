@@ -1,0 +1,29 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .center-container {
+    display: flex;
+    justify-content: center; 
+    align-items: top;        
+    text-align: center;
+    margin: 0;      
+  }
+
+.resume-section {
+    padding: 20px; 
+}
+
+.section-title {
+    border-bottom: 2px solid #000000; 
+    display: block;
+    margin-bottom: 0;
+}
+
+.education-entry p {
+    margin: 0;
+}
+
+
